@@ -127,7 +127,7 @@ def analyze_csv_with_ml(df, target_column, algorithm):
 
 # Streamlit UI
 st.set_page_config(page_title="Analisis Stunting", layout="wide")
-st.title("📊 Analisis Stunting dengan AI dan Machine Learning")
+st.title("📊 Analisis Data dengan AI dan Machine Learning")
 
 # Opsi input
 input_option = st.radio("Pilih jenis input:", ["Input Manual", "Unggah CSV"])
