@@ -2,5 +2,4 @@ streamlit
 pandas
 groq 
 langdetect
-sckit-learn
 plotly
